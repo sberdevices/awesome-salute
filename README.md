@@ -52,9 +52,14 @@
 
 -   [sberdevices/smart_app_framework](https://github.com/sberdevices/smart_app_framework) Smart App Framework
 
+#### C#
+
+-   [granstel/Sber.SmartApp.Models](https://github.com/granstel/Sber.SmartApp.Models) SmartApp API Models
+
 ### Примеры
 
 -   [sberdevices/todo-canvas-app-backend](https://github.com/sberdevices/todo-canvas-app-backend) Backend of Canvas App TODO for SmartApp Code.
 -   [sberdevices/todo-canvas-app](https://github.com/sberdevices/todo-canvas-app) Пример реализации Canvas App на React
 -   [salutejs/examples](https://github.com/sberdevices/salutejs/tree/master/examples) Примеры SaluteJS
 -   [plasma/examples](https://github.com/sberdevices/plasma/tree/rc/examples) Примеры Plasma
+-   [granstel/FillInTheTextBot](https://github.com/granstel/FillInTheTextBot) - исходный код игры "Занимательные истории"; C#, .net core 3.1
