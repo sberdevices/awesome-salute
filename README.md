@@ -4,11 +4,11 @@
 
 ## Общая информация, сообщество и публикации
 
--   [SmartMarket для разработчиков](https://salute.sber.ru/smartmarket/dev) Создавайте смартапы для SmartMarket с управлением голосом и жестами для мобильных и стационарных устройств
+-   [SmartMarket для разработчиков](https://developers.sber.ru/) Создавайте смартапы для SmartMarket с управлением голосом и жестами для мобильных и стационарных устройств
 
 -   [Руководство разработчика смартапов](https://developer.sberdevices.ru/) Узнайте, как сделать качественное приложение для виртуального ассистента
 
--   [SmartApp Studio](https://smartapp-studio.sberdevices.ru/) Личный кабинет разработчика смартапов. В SmartApp Studio вы можете:
+-   [SmartApp Studio](https://developers.sber.ru/studio/login) Личный кабинет разработчика смартапов. В SmartApp Studio вы можете:
 
     -   настроить параметры смартапа,
     -   вести разработку через Code или Graph,
@@ -16,7 +16,7 @@
     -   опубликовать смартап в SmartMarket,
     -   управлять статусами смартапа.
 
--   [Аккредитация разработчиков](https://sberdevices.ru/accreditation_agency/) Программа аккредитации — это признание компетенций разработчиков в создании смартапов для SmartMarket. Прошедшие аккредитацию компании будут помещены в список рекомендованных партнеров для разработки смартапов, работающих на поверхностях с виртуальными ассистентами Салют.
+-   [Аккредитация разработчиков](https://developers.sber.ru/portal/accreditation-program) Программа аккредитации — это признание компетенций разработчиков в создании смартапов для SmartMarket. Прошедшие аккредитацию компании будут помещены в список рекомендованных партнеров для разработки смартапов, работающих на поверхностях с виртуальными ассистентами Салют.
 
 -   [Salute Issues](https://github.com/sberdevices/salute-issues) Пространство для предложений и обсуждения багов в продуктах семейства ассистентов Салют.
 
@@ -24,11 +24,11 @@
     -   [Оценить/проголосовать/прокомментировать](https://github.com/sberdevices/salute-issues/issues) интересующие вас тикеты.
     -   [Создать тикет](https://github.com/sberdevices/salute-issues/issues/new) по собственному предложению/проблеме или вопросу.
 
--   [SmartMarket Community](https://t.me/smartapp_studio) Cообщество разработчиков приложений для виртуальных ассистентов и умных устройств от Сбера.
+-   [SmartMarket Community](https://t.me/smartmarket_community) Cообщество разработчиков приложений для виртуальных ассистентов и умных устройств от Сбера.
 
     -   [Правила и полезные ссылки](http://sber.me/?p=Q2T6t).
 
--   [SmartMarket News](https://t.me/smartapp_studio_news)
+-   [SmartMarket News](https://t.me/smartmarket_news)
 
 -   [Блог на habr.ru](https://habr.com/ru/company/sberdevices/)
     -   [Новые возможности для Python-разработчиков: SmartApp Framework в open source](https://habr.com/ru/company/sberdevices/blog/541420/)
