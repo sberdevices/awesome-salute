@@ -8,7 +8,7 @@
 
 -   [Руководство разработчика смартапов](https://developer.sberdevices.ru/) Узнайте, как сделать качественное приложение для виртуального ассистента
 
--   [SmartApp Studio](https://developers.sber.ru/studio/login) Личный кабинет разработчика смартапов. В SmartApp Studio вы можете:
+-   [SmartMarket Studio](https://developers.sber.ru/studio/login) Личный кабинет разработчика смартапов. В SmartApp Studio вы можете:
 
     -   настроить параметры смартапа,
     -   вести разработку через Code или Graph,
