@@ -62,4 +62,4 @@
 -   [sberdevices/todo-canvas-app](https://github.com/sberdevices/todo-canvas-app) Пример реализации Canvas App на React
 -   [salutejs/examples](https://github.com/sberdevices/salutejs/tree/master/examples) Примеры SaluteJS
 -   [plasma/examples](https://github.com/sberdevices/plasma/tree/rc/examples) Примеры Plasma
--   [granstel/FillInTheTextBot](https://github.com/granstel/FillInTheTextBot) - исходный код игры "Занимательные истории"; C#, .net 6
+-   [granstel/FillInTheTextBot](https://github.com/granstel/FillInTheTextBot) - исходный код игры ["Занимательные истории"](https://developers.sber.ru/catalog/apps/c29d7330-cea6-499c-a8c8-48ed1bd3f6e5/?l=1); C#, .net 6
